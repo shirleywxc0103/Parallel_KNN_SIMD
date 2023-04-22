@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1682064629 source:d:\class\bingxing\code\knn\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cmath>
+	<immintrin.h>
+	<time.h>
+	<cstdlib>
+
